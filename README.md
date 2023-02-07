@@ -1,0 +1,1 @@
+# Manual-Implementation-on-SVM-in-Python
